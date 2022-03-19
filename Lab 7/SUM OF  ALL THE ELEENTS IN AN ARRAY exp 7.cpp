@@ -13,7 +13,7 @@ int array[10];
 for(j=0 ; j < 10 ; j++)
  {
  
- sum = sum + array[j] ;
+ 	sum = sum + array[j] ;
 
 }
 printf("sum of the array  = %d",sum);

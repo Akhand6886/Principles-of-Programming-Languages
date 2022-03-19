@@ -15,6 +15,8 @@ void armstrong(int x)
     printf("The number is not armstrong \n");
     
 }
+
+
 void coprime(int x)
 {
     int rev=0,r,temp=x,hcf;
